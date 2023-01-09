@@ -1,8 +1,14 @@
 # Дальвадянц Татьяна
 
--**тел.:** +7 (904) 242 40 72 
--**email:** tanja.saweljewa@gmail.com
--**Telegram:** @Tatiana_Dalvadiants
+- **тел.:** +7 (904) 242 40 72 
+- **email:** tanja.saweljewa@gmail.com
+- **Telegram:** @Tatiana_Dalvadiants
+
+
+![Картинка][logo]
+
+[logo]: 7F1E9339-3669-4215-8772-44E382983138_1_105_c.jpeg "My Photo"
+
 
 _портфолио:_ ссылка
 
