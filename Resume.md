@@ -5,11 +5,9 @@
 - **Telegram:** @Tatiana_Dalvadiants
 
 
-![My Photo](/Images/7F1E9339-3669-4215-8772-44E382983138_1_105_c.jpeg)
+![My Photo](/Images/7F1E9339-3669-4215-8772-44E382983138_1_105_c.jpeg, w_50, h_100)
 
-<img src="/Users/tatianadalvadianc/Desktop/Resume/Images/7F1E9339-3669-4215-8772-44E382983138_1_105_c.jpeg" width="80" height="100"
 
-_портфолио:_ ссылка
 
  ## Q&A engeneer Junior             
 
