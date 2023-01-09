@@ -5,7 +5,7 @@
 - **Telegram:** @Tatiana_Dalvadiants
 
 
-![My Photo](/Images/7F1E9339-3669-4215-8772-44E382983138_1_105_c.jpeg, w_50, h_100)
+![My Photo](/Images/7F1E9339-3669-4215-8772-44E382983138_1_105_c.jpeg)
 
 
 
