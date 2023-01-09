@@ -8,8 +8,7 @@
 
 
 
-
- ## Q&A engeneer Junior             
+## Q&A engeneer Junior             
 
 
 ### _Ключевые компетенции:_
